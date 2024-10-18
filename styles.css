@@ -1,0 +1,22 @@
+body{
+color:rgb(202, 37, 37);
+background: black;
+
+}
+header{
+      border-bottom:solid 2px white;
+      padding: 20px;
+      font-size: 32px;
+      color:aliceblue;
+}
+
+      section{
+          background-color:blue
+          padding-bottom: 88px;
+          padding-top: 80px;
+          display: flex;
+          justify-content: center;
+
+      }
+
+      chamada-texto
